@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ActivityCommunicationIn Kotlin</string>
+    <string name="Go_To_Another_Activity">GoToAnotherActivity</string>
+
+    <array name="noofstudent">
+        <item>khushaboo</item>
+        <item>pandey</item>
+        <item>khus</item>
+        <item>pandey</item>
+        <item>raj</item>
+        <item>khushaboo</item>
+        <item>pandey</item>
+        <item>khus</item>
+        <item>pandey</item>
+        <item>raj</item>
+        <item>khushaboo</item>
+        <item>pandey</item>
+        <item>khus</item>
+        <item>pandey</item>
+        <item>raj</item>
+    </array>
+</resources>
+
